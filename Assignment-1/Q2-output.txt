@@ -1,0 +1,3 @@
+Enter temperature in celsius: 35
+Temperature in fahrenheit is 95.00 
+Temperature in kelvin is 368.15 

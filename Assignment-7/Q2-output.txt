@@ -1,0 +1,99 @@
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 1
+
+ADD NEW RECORD
+Enter Name: Likki
+Enter address:chennai
+Enter phone number: 56764980
+
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 1
+
+ADD NEW RECORD
+Enter Name: kavya
+Enter address:Delhi
+Enter phone number: 45678903
+
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 2
+
+MODIFY EXISTING RECORD
+Enter name to search and modify: Likki
+
+NAME: Likki
+ADDRESS: chennai
+PHONE NO: 56764980
+
+Do you want to modify
+1.NAME
+2.ADDRESS
+3.PHONE NUMBER
+Enter (1/2/3): 2
+
+Enter new address: Mumbai
+
+RECORD MODIFIED SUCCESSFULLY!!!
+
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 3
+
+RETRIEVE EXISTING RECORD
+Enter name to search: kavya
+
+NAME: kavya
+ADDRESS: Delhi
+PHONE NO: 45678903
+
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 4
+
+DISPLAY ALL RECORDS
+NAME: Likki
+ADDRESS: Mumbai
+PHONE NO: 56764980
+
+************************
+NAME: kavya
+ADDRESS: Delhi
+PHONE NO: 45678903
+
+************************
+
+MENU
+******
+1.Add a record
+2.Modify
+3.Retrieve and display
+4.Display all records
+5.Exit
+Enter your choice: 5

@@ -1,0 +1,3 @@
+enter the string:mississippi
+enter the sub string:ssi
+substring found at 6 position

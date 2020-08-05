@@ -1,0 +1,2 @@
+Enter value of n: 6
+Sum of n numbers= 21

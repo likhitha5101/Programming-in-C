@@ -1,0 +1,3 @@
+Enter the value of base: 2
+Enter the value of power: -2
+Base 2.000000 to the power -2 is 0.250000

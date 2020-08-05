@@ -1,0 +1,2 @@
+Enter a number: 594217
+Reverse of the number is:712495

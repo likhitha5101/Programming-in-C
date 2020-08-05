@@ -1,0 +1,135 @@
+Enter the no. of students: 4
+
+Student 1
+~~~~~~~~~~~
+Enter Roll no. : 101
+Enter the student's name : Abhi
+Enter the age: 16
+Enter Gender: Male
+Enter date of birth(dd/mm/yyyy): 2 3 2002
+Enter the marks:
+Subject 1:90
+Subject 2:80
+Subject 3:70
+Subject 4:95
+Subject 5:85
+
+Student 2
+~~~~~~~~~~~
+Enter Roll no. : 102
+Enter the student's name : Ishitha
+Enter the age: 17
+Enter Gender: Female
+Enter date of birth(dd/mm/yyyy): 15 6 2001
+Enter the marks:
+Subject 1:99
+Subject 2:93
+Subject 3:100
+Subject 4:89
+Subject 5:90
+
+Student 3
+~~~~~~~~~~~
+Enter Roll no. : 103
+Enter the student's name : Akshi
+Enter the age: 16
+Enter Gender: Female
+Enter date of birth(dd/mm/yyyy): 16 8 2002
+Enter the marks:
+Subject 1:80
+Subject 2:70
+Subject 3:90
+Subject 4:95
+Subject 5:85
+
+Student 4
+~~~~~~~~~~~
+Enter Roll no. : 104
+Enter the student's name : Prachi
+Enter the age: 17
+Enter Gender: Female
+Enter date of birth(dd/mm/yyyy): 10 10 2001
+Enter the marks:
+Subject 1:85
+Subject 2:65
+Subject 3:75
+Subject 4:95
+Subject 5:80
+
+Ranking Details
+************
+Roll no. :102
+student's name : Ishitha
+Age: 17
+Gender: Female
+Date of birth(dd/mm/yyyy): 15/6/2001
+Marks:
+Subject 1: 99.00
+Subject 2: 93.00
+Subject 3: 100.00
+Subject 4: 89.00
+Subject 5: 90.00
+Total marks: 471.00
+Rank: 1
+=================================
+Roll no. :101
+student's name : Abhi
+Age: 16
+Gender: Male
+Date of birth(dd/mm/yyyy): 2/3/2002
+Marks:
+Subject 1: 90.00
+Subject 2: 80.00
+Subject 3: 70.00
+Subject 4: 95.00
+Subject 5: 85.00
+Total marks: 420.00
+Rank: 2
+=================================
+Roll no. :103
+student's name : Akshi
+Age: 16
+Gender: Female
+Date of birth(dd/mm/yyyy): 16/8/2002
+Marks:
+Subject 1: 80.00
+Subject 2: 70.00
+Subject 3: 90.00
+Subject 4: 95.00
+Subject 5: 85.00
+Total marks: 420.00
+Rank: 2
+=================================
+Roll no. :104
+student's name : Prachi
+Age: 17
+Gender: Female
+Date of birth(dd/mm/yyyy): 10/10/2001
+Marks:
+Subject 1: 85.00
+Subject 2: 65.00
+Subject 3: 75.00
+Subject 4: 95.00
+Subject 5: 80.00
+Total marks: 400.00
+Rank: 4
+=================================
+To print mark sheet of a particular student
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Enter a name: Akshi
+
+Roll no. :103
+student's name : Akshi
+Age: 16
+Gender: Female
+Date of birth(dd/mm/yyyy): 16/8/2002
+Marks:
+Subject 1: 80.00
+Subject 2: 70.00
+Subject 3: 90.00
+Subject 4: 95.00
+Subject 5: 85.00
+Total marks: 420.00
+Rank: 2
+=================================
+Do you want to continue?(Y/N) n

@@ -1,0 +1,127 @@
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 1
+
+BUYING A MEDICINE
+*******************
+Enter Medicine name: dolo
+Enter vendor name: sam
+Enter Manufacture date(dd/mm/yyyy): 12 3 2018
+Enter expiry date(dd/mm/yyyy): 12 3 2020
+Enter Quantity :100
+
+Medicine bought successfully!!!
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 1
+
+BUYING A MEDICINE
+*******************
+Enter Medicine name: Trapic150
+Enter vendor name: james
+Enter Manufacture date(dd/mm/yyyy): 1 5 2018
+Enter expiry date(dd/mm/yyyy): 2 6 2019
+Enter Quantity :150
+
+Medicine bought successfully!!!
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 1
+
+BUYING A MEDICINE
+*******************
+Enter Medicine name: dolo
+Enter Quantity :50
+
+Medicine bought successfully!!!
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 4
+
+Name          Vendor     Manufacture date        Expiry date            Stock
+
+dolo                 sam             12/ 3 /2018               12/ 3/ 2020             150
+
+Trapic150       james           1/ 5 /2018                 2/ 6/ 2019              150
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 2
+
+SELLING A MEDICINE
+*******************
+Enter Medicine name: dolo
+
+Enter Quantity :200
+Insufficient stock
+Enter Quantity :60
+
+Medicine sold successfully!!!
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 4
+
+Name           Vendor         Manufacture date        Expiry date       Stock
+
+dolo                sam             12/ 3 /2018                 12/ 3/ 2020             90
+
+Trapic150       james           1/ 5 /2018                  2/ 6/ 2019              150
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 3
+
+CHECK AVAILABILITY
+*******************
+Enter medicine name: Trapic150
+Name             Vendor     Manufacture date        Expiry date         Stock
+
+Trapic150       james           1/ 5 /2018                 2/ 6/ 2019              150
+
+MENU
+******
+1. Buy a new drug
+2. Sell a drug
+3. Check availability of a drug
+4. Display
+5.Exit
+Enter your choice: 5

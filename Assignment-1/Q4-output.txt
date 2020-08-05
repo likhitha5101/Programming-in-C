@@ -1,0 +1,4 @@
+Enter Basic Pay : 100000
+Gross salary = 97000.00
+Deductions = 14000.00
+Net salary = 83000.00

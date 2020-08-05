@@ -1,0 +1,2 @@
+Enter the value of N: 10
+The required sequence: 9876543210

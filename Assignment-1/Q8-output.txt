@@ -1,0 +1,9 @@
+Enter the value of a: 5
+Enter the value of b: 10
+1.Addition
+2.Subtraction
+3.Multiplication
+4.Division
+5.Square
+Enter your choice(1-5): 3
+RESULT= 50.000

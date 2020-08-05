@@ -1,0 +1,9 @@
+Enter number of integers: 5
+Enter a number: 3
+Enter a number: 2
+Enter a number: 4
+Enter a number: 9
+Enter a number: 12
+
+Sum of odd numbers: 12
+Sum of even numbers: 18

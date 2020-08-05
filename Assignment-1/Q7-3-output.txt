@@ -1,0 +1,5 @@
+Enter the number: 2
+Do you want to continue(y/n)? y
+Enter the number: 10
+Do you want to continue(y/n)? n
+Sum of given numbers= 12

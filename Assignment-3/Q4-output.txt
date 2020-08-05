@@ -1,0 +1,27 @@
+Enter the no of students:3
+
+Enter the no of courses:3
+enter your name:Abc
+Enter mark 1:89
+Enter mark 2:75
+Enter mark 3:85
+enter your name:Pqr
+Enter mark 1:82
+Enter mark 2:90
+Enter mark 3:70
+enter your name:Xyz
+Enter mark 1:78
+Enter mark 2:65
+Enter mark 3:88
+
+
+the class average is 80.22
+
+marklist::
+
+NAME:Abc
+MARK 1:89.00   MARK 2:75.00   MARK 3:85.00     AVG:83.00
+NAME:Pqr
+MARK 1:82.00   MARK 2:90.00   MARK 3:70.00     AVG:80.67
+NAME:Xyz
+MARK 1:78.00   MARK 2:65.00   MARK 3:88.00     AVG:77.00

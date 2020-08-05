@@ -1,0 +1,32 @@
+Enter the no of students:3
+
+Enter the no of courses:3
+Enter mark1 weightage:50
+Enter mark2 weightage:25
+Enter mark3 weightage:25
+enter your name:Abc
+Enter mark1:84
+Enter mark2:92
+Enter mark3:76
+enter your name:Pqr
+Enter mark1:96
+Enter mark2:78
+Enter mark3:89
+enter your name:Xyz
+Enter mark1:75
+Enter mark2:70
+Enter mark3:95
+
+
+the class average is 84.17
+
+
+marklist::
+
+
+ name:Abc
+mark1:84.00   mark2:92.00   mark3:76.00     average:84.00  deviation:-0.17
+ name:Pqr
+mark1:96.00   mark2:78.00   mark3:89.00     average:89.75  deviation:5.58
+ name:Xyz
+mark1:75.00   mark2:70.00   mark3:95.00     average:78.75  deviation:-5.42

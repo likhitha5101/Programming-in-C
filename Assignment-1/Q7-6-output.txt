@@ -1,0 +1,6 @@
+Enter value of n: -2
+Invalid input
+Enter value of n: 123
+Invalid input
+Enter value of n: 10
+Sum of n numbers= 55

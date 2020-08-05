@@ -1,0 +1,67 @@
+R-Rock  P-Paper  S-Scissors
+***************************
+
+Enter(R/P/S): R
+Your Choice: R
+Computer's Choice: S
+YOU WIN
+***************************
+
+Enter(R/P/S): S
+Your Choice: S
+Computer's Choice: S
+DRAW
+***************************
+
+Enter(R/P/S): S
+Your Choice: S
+Computer's Choice: P
+YOU WIN
+***************************
+
+Enter(R/P/S): S
+Your Choice: S
+Computer's Choice: P
+YOU WIN
+***************************
+
+Enter(R/P/S): R
+Your Choice: R
+Computer's Choice: S
+YOU WIN
+***************************
+
+Enter(R/P/S): P
+Your Choice: P
+Computer's Choice: P
+DRAW
+***************************
+
+Enter(R/P/S): R
+Your Choice: R
+Computer's Choice: R
+DRAW
+***************************
+
+Enter(R/P/S): S
+Your Choice: S
+Computer's Choice: R
+COMPUTER WINS
+***************************
+
+Enter(R/P/S): R
+Your Choice: R
+Computer's Choice: P
+COMPUTER WINS
+***************************
+
+Enter(R/P/S): P
+Your Choice: P
+Computer's Choice: S
+COMPUTER WINS
+
+SCOREBOARD
+~~~~~~~~~~
+YOU: 4
+COMPUTER: 3
+YOU WON THE SERIES!!!

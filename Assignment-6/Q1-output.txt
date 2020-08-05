@@ -1,0 +1,12 @@
+Enter Employee's name : Likhitha
+Enter Employee ID : 213564
+Enter Basic Pay : 50000
+
+SALARY DETAILS
+~~~~~~~~~~~~~~
+Employee's name : Likhitha
+Employee ID : 213564
+Basic Pay : 50000.00
+Gross salary = 49000.00
+Deductions = 8000.00
+Net salary = 41000.00

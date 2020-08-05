@@ -1,0 +1,137 @@
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 1
+
+ADD NEW RECORD
+Enter Name: likki
+Enter address:chennai
+Enter phone number: 23456789
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 1
+
+ADD NEW RECORD
+Enter Name: kavya
+Enter address:mumbai
+Enter phone number: 67890123
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 2
+
+INSERT A RECORD
+Enter the value of m(position): 2
+Enter Name: ashwini
+Enter address:delhi
+Enter phone number: 32165498
+
+RECORD INSERTED SUCCESSFULLY!!!
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 5
+DISPLAY ALL RECORDS
+NAME: likki
+ADDRESS: chennai
+PHONE NO: 23456789
+
+************************
+NAME: ashwini
+ADDRESS: delhi
+PHONE NO: 32165498
+
+************************
+NAME: kavya
+ADDRESS: mumbai
+PHONE NO: 67890123
+
+************************
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 3
+
+DELETE A RECORD
+Enter name to delete record: kavya
+
+RECORD DELETED SUCCESSFULLY!!!
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 4
+
+DISPLAY Nth RECORD
+Enter the value of n(position): 2
+
+NAME: ashwini
+ADDRESS: delhi
+PHONE NO: 32165498
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 5
+
+DISPLAY ALL RECORDS
+NAME: likki
+ADDRESS: chennai
+PHONE NO: 23456789
+
+************************
+NAME: ashwini
+ADDRESS: delhi
+PHONE NO: 32165498
+
+************************
+
+MENU
+******
+1.Add a record
+2.Insert a record
+3.Delete a record
+4.Display nth record
+5.Display all records
+6.Exit
+Enter your choice: 6

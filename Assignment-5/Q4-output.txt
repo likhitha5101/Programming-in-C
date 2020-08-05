@@ -1,0 +1,7 @@
+FINDING DIFFERENCE BETWEEN TWO DAYS
+
+Enter a date(mm dd yyyy): 1 5 2001
+
+Enter another date(mm dd yyyy): 3 26 2019
+
+3 26 2019 comes after 6654 days of 1 5 2001

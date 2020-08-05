@@ -1,0 +1,2 @@
+Enter the n: 4
+Sum of n numbers= 10

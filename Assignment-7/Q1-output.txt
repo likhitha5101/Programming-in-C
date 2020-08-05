@@ -1,0 +1,7 @@
+cseb84@jtl-13:~/assignment7$  gcc Q1.c -o copy
+cseb84@jtl-13:~/assignment7$ ./copy source.txt dest.txt
+The contents copied successfully!!
+cseb84@jtl-13:~/assignment7$  gcc Q1.c -o copy
+cseb84@jtl-13:~/assignment7$ ./copy source.txt dest.txt
+Do you want to overwrite or append to the file?(w/a): a
+The contents copied successfully!

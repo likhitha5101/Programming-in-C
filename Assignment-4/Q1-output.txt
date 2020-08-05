@@ -1,0 +1,35 @@
+menu:
+1.Concatenate
+2.Copy n character
+3.First occurance of a character
+4.Setting a string
+5.Comparing 2 strings
+6. Concatenate n characters
+7.String length
+8.Is Upper
+9.To Lower
+10.To upper
+enter your choice:7
+
+Enter the string:Likhitha
+
+Length of the string is : 8
+
+menu:
+1.Concatenate
+2.Copy n character
+3.First occurance of a character
+4.Setting a string
+5.Comparing 2 strings
+6. Concatenate n characters
+7.String length
+8.Is Upper
+9.To Lower
+10.To upper
+enter your choice:1
+
+Enter the string:hello
+
+Enter another string: good morning
+
+New string is hellogood morning

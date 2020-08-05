@@ -1,0 +1,2 @@
+enter the string:likhitha
+the reversed string is ahtihkil

@@ -1,0 +1,6 @@
+enter multiple lines of text and enter END at the end 
+types of comment statement
+single line comment
+multiple line commentEND
+
+number of tokens : 10

@@ -1,0 +1,9 @@
+Enter the no of elements:6
+Enter the element:0
+Enter the element:3
+Enter the element:2
+Enter the element:0
+Enter the element:0
+Enter the element:1
+
+ The altered array is :3,2,1,0,0,0

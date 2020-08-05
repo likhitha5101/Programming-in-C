@@ -1,0 +1,165 @@
+ **Sample output**
+
+ ATTENDANCE MANAGEMENT SYSTEM
+
+                1.Teacher Login
+
+                2.Student Login
+
+                3.New user(sign up)
+
+                4.Exit
+
+                Enter your choice: 2
+
+                1.Update Attendance
+
+                2.Append Data
+
+                3.Class wise view attendance
+
+                4.Student wise view attendance
+
+                5.Exit
+
+                Enter your choice: 3
+
+                Enter Department: ECE
+
+                Enter Section: B
+
+                Enter year: 1
+
+                Year: 1 Dept: ECE       Sec: B
+
+                RNo             Name            ENG      MATH   CHEM    PHY     PYT     EG
+
+                185001050       POOJA           100.00  100.00  81.82   90.00   76.92   100.00
+
+                185001051       RITHUJAA        100.00  100.00  90.91   100.00  100.00  100.00
+
+                185001052       LIKITHA         70.00   80.00   63.64   70.00   80.00   70.00
+
+                185001053       PREETHI         90.00   90.00   81.82   80.00   80.00   100.00
+
+                185001054       PRASHANTH       90.00   90.00   90.91   80.00   80.00   100.00
+
+                185001056       PRASANNA        100.00  100.00  100.00  100.00  100.00  100.00
+
+                185001057       RISHI           90.00   90.00   90.91   100.00  80.00   100.00
+
+                185001058       MADHU           100.00  80.00   90.91   80.00   80.00   100.00
+
+                185001059       PRAVEEN         100.00  100.00  81.82   90.00   70.00   100.00
+
+                185001065       NANDHINI        0.00    0.00    0.00    0.00    0.00    0.00
+
+#inside student login
+
+                1.View attendance
+
+                2.Month wise attendance
+
+                3.Particular date
+
+                4.Exit
+
+                Enter your choice: 3
+
+
+                Enter day(dd/mm/yyyy format): 22 1 2019
+
+
+                Name: MANASA
+
+                Year: 1 Dept: CSE       Sec: B
+
+                Register no.: 185001090
+
+                Date: 22/1/2019
+
+                Subjects        Status
+
+                ENG             P
+
+                MATH            P
+
+                CHEM            P
+
+                PHY             P
+
+                PYT             P
+
+                EG              P
+
+
+                ATTENDANCE MANAGEMENT SYSTEM
+
+                1.Teacher Login
+
+                2.Student Login
+
+                3.New user(sign up)
+
+                4.Exit
+
+                Enter your choice: 1
+
+                Enter Username/Register no.: sundar123
+
+                Enter Password: * * * * * * * * * *
+
+
+                1.Update Attendance
+
+                2.Append Data
+
+                3.Class wise view attendance
+
+                4.Student wise view attendance
+
+                5.Exit
+
+                Enter your choice: 1
+
+
+                UPDATE ATTENDANCE
+
+                Enter Department: ECE
+
+                Enter Section: B
+
+                Enter year: 1
+
+                Enter Sub: MATH
+
+
+                Rno             Name
+
+                185001050       POOJA
+
+                185001051       RITHUJAA
+
+                185001052       LIKITHA
+
+                185001053       PREETHI
+
+                185001054       PRASHANTH
+
+                185001056       PRASANNA
+
+                185001057       RISHI
+
+                185001058       MADHU
+
+                185001059       PRAVEEN
+
+                185001065       NANDHINI
+
+                Enter date(dd/mm/yyyy): 25 1 2019
+
+                Enter Absentees Register No.(full no.)(Enter 0 to stop): 185001057
+185001059
+0
+
+                ATTENDANCE UPDATED SUCCESSFULLY!!!

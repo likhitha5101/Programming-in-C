@@ -1,0 +1,3 @@
+Enter a string:fun is fun to have fun with friends
+enter the sub string:fun
+The no of times 'fun' occurs is 3 
